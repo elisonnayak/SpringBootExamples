@@ -1,0 +1,6 @@
+.idea/
+gradle/
+bootdemo3.x/.gitignore
+bootdemo3.x/gradlew.bat
+bootdemo3.x/gradlew
+bootdemo3.x/.gitattributes
